@@ -1,9 +1,6 @@
 <?php
 $a = "hello";
-echo $a;
-echo $a;
-echo $a;
-echo $a;
-?>
+ echo str_repeat($a, 5);
+
 
 
